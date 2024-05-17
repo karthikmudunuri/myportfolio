@@ -23,7 +23,7 @@ export function HeroHighlightDemo() {
       >
          
        Hi, This is Karthikeya varma  <br/>
-        I'm a{" "}
+        I&apos;m a{" "}
         <Highlight className="text-white">
           Frontend Developer
         </Highlight>
