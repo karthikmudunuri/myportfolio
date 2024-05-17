@@ -100,7 +100,7 @@ const dummyContent = [
     description: (
         <>
         <ul className="custom-list">
-            <li className="custom-list-item">My role in this internship is to hire the candidates personally and select some to them who meet with our all skills and we have done a project on "Recruiting & Staffing".where we recruit people by doing personal interviews</li>
+            <li className="custom-list-item">My role in this internship is to hire the candidates personally and select some to them who meet with our all skills and we have done a project on Recruiting & Staffing.where we recruit people by doing personal interviews</li>
             
         </ul>
       </>
